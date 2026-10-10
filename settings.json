@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bhai-13me.aternos.me",
+    "ip": "Bhai-13me.aternos.me:50817",
     "port": 50817,
     "version": "",
     "try-creative": false
